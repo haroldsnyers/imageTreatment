@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="883c4bc1-3199-45e4-a5ea-5c5f86634b7e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Jupyter/monkey/Stéréovision.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter/monkey/Stéréovision.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jupyter/monkey/point.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Jupyter/monkey/point.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/imageTreatment$Stéréovision1.coverage" NAME="Stéréovision1 Coverage Results" MODIFIED="1579048794364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/imageTreatment$generatePointsApe.coverage" NAME="generatePointsApe Coverage Results" MODIFIED="1579097026134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labo3/monkey" />
+    <SUITE FILE_PATH="coverage/imageTreatment$test.coverage" NAME="test Coverage Results" MODIFIED="1578978480900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labo3/monkey" />
+    <SUITE FILE_PATH="coverage/imageTreatment$show.coverage" NAME="show Coverage Results" MODIFIED="1579044147311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labo3/monkey" />
+    <SUITE FILE_PATH="coverage/imageTreatment$testtest.coverage" NAME="testtest Coverage Results" MODIFIED="1579049833704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labo3/monkey" />
+    <SUITE FILE_PATH="coverage/imageTreatment$generatePoints.coverage" NAME="generatePoints Coverage Results" MODIFIED="1579043245128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labo3/monkey" />
+    <SUITE FILE_PATH="coverage/imageTreatment$stereo.coverage" NAME="stereo Coverage Results" MODIFIED="1579030189225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jupyter/monkey" />
+    <SUITE FILE_PATH="coverage/imageTreatment$ShowObject.coverage" NAME="ShowObject Coverage Results" MODIFIED="1579020885557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Jupyter/monkey" />
+    <SUITE FILE_PATH="coverage/imageTreatment$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1579039627227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labo3/monkey" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Jupyter" />
+  </component>
+  <component name="JupyterTrust" id="dda5de5a-aa86-4cb0-941b-70d32ff90171" />
+  <component name="ProjectId" id="1WR4NnhizOjl7jzmVWGwzh5R5W6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/GitHub/Ecam_MA1/MicroCourses/Rainbow" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Harold\Documents\imageTreatment\Labo3\monkey" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.show">
+    <configuration name="Stéréovision1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="imageTreatment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/Stéréovision1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generatePoints" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="imageTreatment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Labo3/monkey" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Labo3/monkey/generatePoints.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generatePointsApe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="imageTreatment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Labo3/monkey" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Labo3/monkey/generatePointsApe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="show" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="imageTreatment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Harold\Dropbox\MA1-Computer_science\I4100 GPU computing\Traitement d'images 1\project_test\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Labo3/monkey" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Labo3/monkey/show.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testtest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="imageTreatment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Labo3/monkey" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Labo3/monkey/testtest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Stéréovision1" />
+      <item itemvalue="Python.generatePointsApe" />
+      <item itemvalue="Python.generatePoints" />
+      <item itemvalue="Python.show" />
+      <item itemvalue="Python.testtest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.show" />
+        <item itemvalue="Python.generatePointsApe" />
+        <item itemvalue="Python.testtest" />
+        <item itemvalue="Python.Stéréovision1" />
+        <item itemvalue="Python.generatePoints" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="883c4bc1-3199-45e4-a5ea-5c5f86634b7e" name="Default Changelist" comment="" />
+      <created>1578978310789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578978310789</updated>
+      <workItem from="1578978313011" duration="1746000" />
+      <workItem from="1579019025888" duration="20349000" />
+      <workItem from="1579099061983" duration="31148000" />
+      <workItem from="1579181374881" duration="2745000" />
+      <workItem from="1579297756119" duration="31000" />
+      <workItem from="1579455218848" duration="131000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="260" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579140672763">
+      <screen x="70" y="0" width="1466" height="864" />
+    </state>
+    <state x="260" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.0.1466.864/933.-1080.1920.1050@70.0.1466.864" timestamp="1579140672763" />
+    <state x="585" y="189" key="FileChooserDialogImpl" timestamp="1579455345937">
+      <screen x="70" y="0" width="1466" height="864" />
+    </state>
+    <state x="585" y="189" key="FileChooserDialogImpl/70.0.1466.864/-1920.610.1280.689@70.0.1466.864" timestamp="1579455345937" />
+    <state width="711" height="223" key="GridCell.Tab.0.bottom" timestamp="1579221932775">
+      <screen x="70" y="0" width="1466" height="864" />
+    </state>
+    <state width="711" height="224" key="GridCell.Tab.0.bottom/70.0.1466.864/933.-1080.1920.1050@70.0.1466.864" timestamp="1579141722927" />
+    <state width="711" height="223" key="GridCell.Tab.0.bottom/70.0.1466.864@70.0.1466.864" timestamp="1579221932775" />
+    <state width="711" height="223" key="GridCell.Tab.0.center" timestamp="1579221932774">
+      <screen x="70" y="0" width="1466" height="864" />
+    </state>
+    <state width="711" height="224" key="GridCell.Tab.0.center/70.0.1466.864/933.-1080.1920.1050@70.0.1466.864" timestamp="1579141722927" />
+    <state width="711" height="223" key="GridCell.Tab.0.center/70.0.1466.864@70.0.1466.864" timestamp="1579221932774" />
+    <state width="711" height="223" key="GridCell.Tab.0.left" timestamp="1579221932773">
+      <screen x="70" y="0" width="1466" height="864" />
+    </state>
+    <state width="711" height="224" key="GridCell.Tab.0.left/70.0.1466.864/933.-1080.1920.1050@70.0.1466.864" timestamp="1579141722924" />
+    <state width="711" height="223" key="GridCell.Tab.0.left/70.0.1466.864@70.0.1466.864" timestamp="1579221932773" />
+    <state width="711" height="223" key="GridCell.Tab.0.right" timestamp="1579221932775">
+      <screen x="70" y="0" width="1466" height="864" />
+    </state>
+    <state width="711" height="224" key="GridCell.Tab.0.right/70.0.1466.864/933.-1080.1920.1050@70.0.1466.864" timestamp="1579141722927" />
+    <state width="711" height="223" key="GridCell.Tab.0.right/70.0.1466.864@70.0.1466.864" timestamp="1579221932775" />
+    <state x="314" y="77" key="SettingsEditor" timestamp="1579107651105">
+      <screen x="70" y="0" width="1466" height="864" />
+    </state>
+    <state x="314" y="77" key="SettingsEditor/70.0.1466.864/933.-1080.1920.1050@70.0.1466.864" timestamp="1579107651105" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/imageTreatment$show.coverage" NAME="show Coverage Results" MODIFIED="1579182149388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Labo3/monkey" />
+  </component>
+</project>
